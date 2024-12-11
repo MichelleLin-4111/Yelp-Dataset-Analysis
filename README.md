@@ -37,8 +37,8 @@
 You don’t need to download the full Yelp dataset to run the queries in this project. The `code/sampling` notebook has already sampled data from the full Yelp dataset and saved it in the `sampled_data/ directory`.
 
 If you want to explore the full Yelp dataset:
-- **Data Source:** (Download the Yelp Open Dataset)[https://www.yelp.com/dataset/download] 
-- **Documentation:** (Yelp Dataset Documentation)[https://www.yelp.com/dataset/documentation/main]
+- **Data Source:** [Download the Yelp Open Dataset](https://www.yelp.com/dataset/download)
+- **Documentation:** [Yelp Dataset Documentation](https://www.yelp.com/dataset/documentation/main)
 
 
 # Repository Structure
