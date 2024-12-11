@@ -46,6 +46,7 @@ If you want to explore the full Yelp dataset:
 ```
 .
 ├── README.md                     # Project documentation
+├── writeup.md                    # Project writeup
 ├── code/                         # Code and scripts
 │   ├── sampling/                 # Notebook to sample data from the full Yelp dataset
 │   ├── schema_design/            # Scripts to create denormalized and normalized schemas
