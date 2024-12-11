@@ -1,5 +1,11 @@
 # Final Implementation Project
 
+## Getting Hands Dirty with PostgreSQL
+For this project, I focused on concepts from part of **class 6** and **class 7**, which covered **relational database management systems (RDBMS)**. This project explores three main areas: 
+1. **Schema Design (Normalization vs. Denormalization)**
+2. **SQL Query Optimization**
+3. **Exploratory and Analytical Queries**
+   
 ## Dataset Selection
 The Yelp Dataset is an open-source dataset that contains information about restaurants, reviews, user info, and more across the US. Since the dataset is very large, totaling around **9.29 GB**, I decided to sample the data to make it more manageable for analysis and storage.
 
@@ -21,14 +27,6 @@ I used **reservoir sampling** because it produces a **Simple Random Sample (SRS)
   - If **j >= k**, the current row is skipped.  
 
 This ensures that each row in the dataset has a **k/n chance** of being included in the sample. The proof for this can be done using **mathematical induction**.
-
----
-
-## Getting Hands Dirty with PostgreSQL
-For this project, I focused on concepts from **class 6** and **class 7**, which covered **relational database management systems (RDBMS)** using **PostgreSQL**. This project explores three main areas: 
-1. **Schema Design (Normalization vs. Denormalization)**
-2. **Query Optimization**
-3. **Exploratory and Analytical Queries**
 
 ---
 
