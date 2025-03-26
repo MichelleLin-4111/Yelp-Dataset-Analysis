@@ -1,7 +1,7 @@
 # Final Implementation Project
 
 ## Getting Hands Dirty with PostgreSQL
-For this project, I focused on concepts from part of **class 6** and **class 7**, which covered **relational database management systems (RDBMS)**. This project explores three main areas: 
+For this project, I focused on the topic of **relational database management systems (RDBMS)**. This project explores three main areas: 
 1. **Schema Design (Normalization vs. Denormalization)**
 2. **SQL Query Optimization**
 3. **Exploratory and Analytical Queries**
